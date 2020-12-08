@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrewBlazor", "BrewBlazor\BrewBlazor.csproj", "{C45FB733-3E55-4C0F-899E-17A975CBF2B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeDisplayer", "RecipeDisplayer\RecipeDisplayer.csproj", "{3A3021EA-C919-4CEB-932C-2C9BDAB4A55E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecipeDisplayer", "RecipeDisplayer\RecipeDisplayer.csproj", "{3A3021EA-C919-4CEB-932C-2C9BDAB4A55E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrewerDisplayer", "BrewerDisplayer\BrewerDisplayer.csproj", "{C3F1CA5A-53DF-4828-9423-EF6D6C416BE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrewerDisplayer", "BrewerDisplayer\BrewerDisplayer.csproj", "{C3F1CA5A-53DF-4828-9423-EF6D6C416BE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeTests", "RecipeTests\RecipeTests.csproj", "{F59E69D1-BBB1-4B54-9888-DFE713912764}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecipeTests", "RecipeTests\RecipeTests.csproj", "{F59E69D1-BBB1-4B54-9888-DFE713912764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrewDayDisplayer", "BrewDayDisplayer\BrewDayDisplayer.csproj", "{748C5AD5-3791-44EE-8B2C-3DB3B0340974}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F59E69D1-BBB1-4B54-9888-DFE713912764}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F59E69D1-BBB1-4B54-9888-DFE713912764}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F59E69D1-BBB1-4B54-9888-DFE713912764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748C5AD5-3791-44EE-8B2C-3DB3B0340974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748C5AD5-3791-44EE-8B2C-3DB3B0340974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748C5AD5-3791-44EE-8B2C-3DB3B0340974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748C5AD5-3791-44EE-8B2C-3DB3B0340974}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
